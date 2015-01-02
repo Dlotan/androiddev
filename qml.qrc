@@ -2,12 +2,12 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>ViewForm.qml</file>
-        <file>copy.png</file>
-        <file>cut.png</file>
-        <file>new.png</file>
-        <file>open.png</file>
-        <file>paste.png</file>
-        <file>save.png</file>
         <file>AddForm.qml</file>
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/save.png</file>
     </qresource>
 </RCC>

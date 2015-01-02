@@ -73,7 +73,7 @@ Rectangle {
                     }
                     ComboBox {
                         id: imageComboBox
-                        model: ["copy.png", "cut.png", "new.png", "open.png", "paste.png", "save.png"]
+                        model: ["images/copy.png", "images/cut.png", "images/new.png", "images/open.png", "images/paste.png", "images/save.png"]
                     }
                 }
             }
